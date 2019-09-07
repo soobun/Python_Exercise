@@ -1,0 +1,3 @@
+In python you can program.
+In python you can make a game.
+In python you can make a website.
