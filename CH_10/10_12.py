@@ -11,4 +11,4 @@ except FileNotFoundError:
     print('File Not Found...')
     num = int(input('Please input your favorite number here: '))
     with open('like_number.json', 'w') as file_object:
-        json.dump(num,file_object)
+        json.dump(num, file_object)
